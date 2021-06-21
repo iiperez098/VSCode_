@@ -1,5 +1,5 @@
 def main():
-    print("Hi! Fintech")
+    print("Fintech!")
 
-main()
+main():
 
