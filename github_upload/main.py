@@ -1,5 +1,5 @@
 def main():
     print("Fintech!")
 
-main():
+main()
 
